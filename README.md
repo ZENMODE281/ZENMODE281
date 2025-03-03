@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZENMODE281
 - 
-<style color: blue;> Junior developer</style>
+- <style color= blue;> Junior developer</style>
 
 <!---
 ZENMODE281/ZENMODE281 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
