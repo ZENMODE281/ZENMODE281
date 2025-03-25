@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZENMODE281
--   Advanced web designer
+-   Intermediate web designer
 - <p style color= blue;> Junior developer</p>
 - STUDENT at algoma university
 
