@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZENMODE281
+- 👋 Hi, I’m Naseef Ogunsola
 -   Intermediate web designer
 - <p style color= blue;> Junior developer</p>
 - STUDENT at algoma university
