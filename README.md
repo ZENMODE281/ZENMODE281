@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Naseef Ogunsola
 -   Intermediate web designer
-- <p style color= blue;> Junior developer</p>
+- <p style color= blue;> fullstack developer</p>
 - STUDENT at algoma university
 
 <!---
